@@ -7,9 +7,7 @@ import "./App.css";
 const App = () => {
   return (
     <>
-      <div className="p-2 flex justify-center items-center">
-        <TimeChecker />
-      </div>
+      <TimeChecker />
     </>
   );
 };
