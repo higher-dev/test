@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Test Project from Mobile Factory
+This project is built by Takumi Kato who is applied to Mobile Factory company.
 
 ## Available Scripts
 
